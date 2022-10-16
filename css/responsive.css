@@ -1,0 +1,1193 @@
+/*=================================================				UP FROM 1200PX=================================================*/
+@media (min-width: 1200px) and (max-width: 1366px) {
+    .tour-trip {
+        margin: -50px auto;
+    }
+
+    .tour-trip span {
+        font-size: 40px;
+        line-height: 76px;
+        width: 76px;
+        height: 76px;
+        margin-bottom: 10px;
+    }
+
+    .tour-trip h4 {
+        font-size: 20px;
+    }
+
+    .blog-1:hover .tour-trip {
+        margin: -114px auto 0;
+    }
+
+    .kf_element_right .kf_meta a {
+        margin-top: 2px;
+    }
+
+    .kf_element_right .kf_meta li:before {
+        margin-top: -7px;
+    }
+
+    .booking-bottom .btn-blog:before {
+        right: 14px;
+        margin-top: -12px;
+    }
+
+    .small-blog1 .booking-bottom .btn-blog:before {
+        right: 7px;
+    }
+
+    .blog_elements:hover .five_blog_content,
+    .blog_elements.slick-slide.slick-current.slick-active.slick-center .five_blog_content {
+        top: 0px;
+        margin: 0 auto;
+    }
+}
+
+/*=================================================			FROM 992PX TO 1199PX=================================================*/
+@media (min-width: 992px) and (max-width: 1199px) {
+    .booking-bottom .btn-blog:before {
+        right: 12px;
+    }
+
+    .kf_element_right .kf_meta a {
+        margin-top: 2px;
+    }
+
+    .kf_element_right .kf_meta li:before {
+        margin-top: -7px;
+    }
+
+    .dl-menuwrapper {
+        display: none;
+    }
+
+    div.logo-here {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+
+    div.logo-here h1 {
+        width: 150px;
+    }
+
+    .submit-form .btn-normal-3 {
+        font-size: 14px;
+    }
+
+    .banner-caption .title-1 {
+        font-size: 50px;
+    }
+
+    .banner-caption {
+        margin-top: -180px;
+    }
+
+    .bottom-price {
+        margin-bottom: -70px;
+        bottom: 50%;
+        right: 0px;
+    }
+
+    .bottom-price .radio-price {
+        border: medium none;
+        border-radius: 0 0 0 10px;
+        font-weight: 600;
+        height: 30px;
+        line-height: 30px;
+        width: 58px;
+    }
+
+    .kode_blog_2,
+    .kode_blog_3,
+    .kode_blog_1 {
+        width: 100%;
+    }
+
+    .kode_location_blog .blog-1 {
+        width: 50%;
+    }
+
+    .height-239 {
+        height: auto;
+    }
+
+    .kf_post_2 div.kf_post_content h4 a {
+        font-size: 18px;
+    }
+
+    .kf_post_footer {
+        padding: 13px 8px;
+    }
+
+    .kf_post_2 div.kf_post_content {
+        padding: 16px 20px 23px;
+    }
+
+    .kode_social_icons_2 li {
+        margin-bottom: 5px;
+    }
+
+    div.full-slider div.slide {
+        width: 50%;
+    }
+
+    div.brands-slider div.slide img {
+        padding: 15px 0px;
+    }
+
+    div.brands-slider div.slide {
+        height: auto;
+        margin-bottom: 0px;
+    }
+
+    div.blog-tour-grid.full-slider div.slide {
+        width: 100%;
+    }
+
+    .destination-grid-02:hover .destination-grid-content span {
+        visibility: hidden;
+        opacity: 0;
+    }
+
+    div.destination-content-03 ul.meta_tag li a {
+        font-size: 13px;
+    }
+
+    div.destination-content-03 h6 {
+        margin-bottom: 8px;
+    }
+
+    #weather span {
+        line-height: 26px;
+    }
+
+    #live-date,
+    #weather span,
+    #weather .currently {
+        font-size: 16px;
+    }
+
+    ul.kode_navi_fixed li>a {
+        padding: 10px 0;
+    }
+
+    ul.kode_navi_fixed li {
+        float: left;
+    }
+
+    div.fixed-header {
+        margin-top: 176px;
+    }
+
+    .col-big-4 {
+        width: 33.3333%;
+    }
+
+    .col-big-6 {
+        width: 50%;
+    }
+
+    div.dropdown-select-01 {
+        border: none;
+    }
+
+    .dropdown-select-01 .select {
+        padding: 4px 12px;
+        height: 32px;
+    }
+
+    .tab-content-column h6 {
+        font-size: 16px;
+    }
+
+    .tab-content-column span {
+        font-size: 35px;
+    }
+
+    .tour-tab-content li {
+        margin-right: 9px;
+    }
+
+    .tour-support-items li span {
+        font-size: 12px;
+    }
+
+    .tour-support-items li {
+        margin-bottom: 7px;
+    }
+
+    .tour-booking-detail .tour-support-items {
+        padding: 20px 15px 10px;
+    }
+
+    .widget-detail-info li strong,
+    .widget-detail-info li span {
+        vertical-align: middle;
+    }
+
+    .details-items-gallery li {
+        width: 30%;
+    }
+
+    .widget-review-slide {
+        padding: 25px 16px 34px;
+    }
+
+    .widget-review-slide span {
+        padding: 5px 0px 20px;
+    }
+
+    .widget-post figure {
+        width: 100%;
+    }
+
+    .ralated-post-style .widget-post-content {
+        width: 100%;
+        padding: 15px 0px 0px;
+    }
+
+    .width-50 {
+        margin-right: 23px;
+    }
+
+    .download-file {
+        margin-bottom: 15px;
+    }
+
+    .travel-download-form .col-big-6:last-of-type .download-file {
+        margin-bottom: 0px;
+    }
+
+    .travel-recaptcha label {
+        width: 83%;
+    }
+
+    .travel-price-bord {
+        margin-top: -135px;
+    }
+
+    .kf_blog-02 figure:before {
+        height: 76px;
+    }
+
+    .kf_post .kf_post_content h4 a {
+        font-size: 20px;
+    }
+
+    .widget-post-content {
+        padding: 15px;
+        width: 100%;
+        background: #f8f8f8;
+    }
+
+    .widget.widget-gallery li {
+        width: 33.333%;
+    }
+
+    .blockquote-padding {
+        width: 82%;
+    }
+
+    .social_icons_tags {
+        width: 52%;
+    }
+}
+
+/*=================================================			FROM 0PX TO 991PX=================================================*/
+@media (max-width: 991px) {
+    div.dl-menuwrapper {
+        display: block;
+        margin: 14px;
+        z-index: 99;
+    }
+
+    .kf-search-menu button {
+        right: 76%;
+    }
+
+    .navigation {
+        display: none;
+    }
+
+    .header-v1-right .kode {
+        display: none;
+    }
+
+    .header-v1-nav {
+        float: right;
+        margin: 0px 0px 0px;
+    }
+
+    .header_v1_slider {
+        width: 100%;
+    }
+
+    .kf_element_right,
+    .kf_element_right .kf_meta {
+        text-align: center;
+        width: 100%;
+    }
+
+    .kf_element_right .kf_meta li {
+        float: none;
+        display: inline-block;
+    }
+
+    .kf_element_right {
+        padding: 0px;
+        margin-bottom: 20px;
+    }
+
+    .title-1 {
+        font-size: 30px;
+        line-height: 25px;
+    }
+
+    .container.banner-caption {
+        display: block;
+        margin-top: -88px;
+    }
+
+    .travel_search_engine {
+        padding: 80px 0px;
+    }
+
+    .travel_search_engine .container {
+        margin-top: 0px;
+        position: relative;
+        box-shadow: 0px 2px 3px 2px rgba(0, 0, 0, 0.1);
+    }
+
+    .travel-service-column {
+        padding: 0px 15px;
+    }
+
+    .kode_tab-list {
+        padding: 0px;
+    }
+
+    .kode_felid input[type="text"] {
+        padding: 0 45px 0px 15px;
+    }
+
+    .submit-form {
+        margin: 10px auto;
+        text-align: center;
+    }
+
+    .travel_services_blog {
+        padding: 80px 0px 50px;
+    }
+
+    .kf_filtrable_pinter li a {
+        padding: 0 15px 8px;
+    }
+
+    .kode_blog_2,
+    .blog-1,
+    .kode_blog_3,
+    .kode_blog_1 {
+        width: 100%;
+    }
+
+    .title-style-1,
+    .heading h2 {
+        line-height: normal;
+    }
+
+    .kf_testimonial div.user-content {
+        padding: 0px;
+    }
+
+    .kf_summer_offers .summer_offer_show span {
+        font-size: 17px;
+        margin-bottom: 0px;
+    }
+
+    .kf_summer_offers .summer_offer_show h2 {
+        font-size: 34px;
+        margin-bottom: 0px;
+    }
+
+    .kf_summer_offers .summer_offer_show span {
+        font-size: 17px;
+        margin-bottom: 12px;
+    }
+
+    .kf_summer_offers .summer_offer_show span {
+        font-size: 17px;
+        margin-bottom: 0px;
+    }
+
+    .height-239 {
+        height: auto;
+    }
+
+    .kf_post_2 div.kf_post_content h4 a {
+        font-size: 18px;
+    }
+
+    .kf_post_footer {
+        padding: 13px 8px;
+    }
+
+    .kode_social_icons_2 li {
+        margin-bottom: 5px;
+    }
+
+    .kf_arrow_list,
+    .widget.kf_keep_connect {
+        margin-bottom: 24px;
+    }
+
+    .kf_cradit_cards li,
+    .created-by-kodeforest-team span {
+        float: none;
+        display: inline-block;
+    }
+
+    .footer-content {
+        padding: 76px 0 65px;
+    }
+
+    div.pp_default .pp_close {
+        margin: 0px;
+        right: 0px;
+    }
+
+    div.kf_element_left {
+        width: 100%;
+        float: left;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    div.header_v1_slider {
+        float: left;
+        width: 50%;
+    }
+
+    .header-v1_navigation_row .header-v1-nav,
+    div.kf_element_right {
+        float: right;
+        width: auto;
+        margin: 0px 0px;
+    }
+
+    .header-v1-right {
+        margin: 14px 0;
+    }
+
+    .dl-menuwrapper {
+        margin: 13px;
+    }
+
+    .kode_tab-list .tabs-items>li {
+        float: left;
+        width: 33.3333%;
+    }
+
+    .booking_content .kode_felid .ralative-icon {
+        width: 100%;
+    }
+
+    .kode_blog_3,
+    .kode_blog_2,
+    .kode_blog_1,
+    .booking_content .col-md-6 .kode_felid {
+        width: 100%;
+    }
+
+    div.blog-1 {
+        width: 50%;
+    }
+
+    .kf_trending_citys li {
+        width: 19.6%;
+    }
+
+    .kf_summer_offers .kf_summer_picture {
+        width: 40%;
+    }
+
+    .kf_summer_offers .summer_offer_show {
+        width: 60%;
+        padding: 60px 0 0;
+    }
+
+    .kf_summer_offers .summer_offer_show h3 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .kf_summer_offers .summer_offer_show h2 {
+        font-size: 60px;
+        line-height: 60px;
+    }
+
+    .subscribe-form .btn-normal-4 {
+        position: absolute;
+        width: auto;
+    }
+
+    .listing-grid-blog ul.list-services {
+        margin-bottom: 28px;
+    }
+
+    div.full-slider div.slide {
+        width: 50%;
+    }
+
+    div.brands-slider div.slide img {
+        padding: 15px 5px;
+    }
+
+    div.brands-slider div.slide {
+        height: auto;
+    }
+
+    div.slide-content {
+        margin-top: 0px;
+    }
+
+    .slide-content p {
+        display: none;
+    }
+
+    div.blog-tour-grid.full-slider div.slide {
+        width: 100%;
+    }
+
+    .kode_banner .sub-banner h2 {
+        font-size: 30px;
+        margin-bottom: 8px;
+    }
+
+    .kode_banner .sub-banner p {
+        margin-bottom: 0px;
+    }
+
+    .kf_element_right {
+        padding: 12px 0px 0px;
+    }
+
+    div.destination-grid-02 {
+        margin-bottom: 36px;
+    }
+
+    .tour-trip-visit .play-tour:before,
+    .tour-trip-visit .play-tour:after {
+        transform: scale(0.75);
+    }
+
+    div.kode_tour_caption h2 {
+        font-size: 80px;
+        line-height: 68px;
+    }
+
+    .kode_tour_caption>span {
+        font-size: 20px;
+        margin-bottom: 6px;
+    }
+
+    .kode_tour_caption {
+        padding: 53px 0 0 11px;
+    }
+
+    ul.kode_navi_fixed.nav li {
+        float: left;
+    }
+
+    ul.kode_navi_fixed.nav .nav-icon i {
+        display: none;
+    }
+
+    ul.kode_navi_fixed.nav .nav-icon {
+        padding: 11px 11px 7px;
+    }
+
+    .fixed-header ul.kode_navi_fixed.nav .nav-icon {
+        padding: 11px 13px 7px;
+    }
+
+    .sticky_nav_menu.fixed-header {
+        margin-top: 109px;
+    }
+
+    ul.kode_navi_fixed.nav .nav-icon span {
+        font-size: 14px;
+    }
+
+    .travel_country_history div.table-blog {
+        margin-bottom: 30px;
+    }
+
+    .kf_culture_blog div.kf_culture_content h2 {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .tour-location-widget,
+    .tour-checkbox {
+        width: 50%;
+    }
+
+    .transparent-widget {
+        margin-bottom: 30px;
+    }
+
+    div.dropdown-select-01 {
+        border: none;
+    }
+
+    .dropdown-select-01 .select {
+        padding: 4px 12px;
+        height: 32px;
+    }
+
+    ul.tour-tab-content li {
+        margin-right: 0px;
+    }
+
+    .details-items-gallery li {
+        width: 30.555%;
+    }
+
+    .width-50 {
+        margin-right: 28px;
+    }
+
+    .ralated-post-style {
+        width: 50%;
+    }
+
+    .travel-price-bord {
+        margin-top: 0px;
+    }
+
+    .kf_blog-02 figure:before {
+        height: 56px;
+    }
+
+    .kf_post .kf_post_content h4 a {
+        font-size: 20px;
+    }
+
+    .widget-post {
+        width: 50%;
+        padding: 0px 0px;
+    }
+
+    .widget.widget-gallery li {
+        width: 16%;
+    }
+
+    .widget-post-content {
+        padding: 12px;
+    }
+
+    .social_icons_tags {
+        width: 45%;
+    }
+
+    .form-box .text-felid {
+        width: 50%;
+        padding: 0px 15px;
+    }
+
+    .form-box .text-area {
+        width: 50%;
+    }
+
+    .form-box {
+        margin-bottom: 30px;
+    }
+
+    .error-page h3 {
+        line-height: normal;
+    }
+
+    .kf-countdown-1 li {
+        width: 23%;
+    }
+
+    .tabs-items li a {
+        font-size: 0px;
+    }
+
+    .tabs-items li a i {
+        display: block;
+        font-size: 30px;
+        float: left;
+        width: 100%;
+    }
+
+    .kode_tab-list .tabs-items>li {
+        width: 20%;
+    }
+
+    .kode_tab-list ul li a {
+        float: left;
+        text-align: center;
+    }
+
+    .kf_filtrable_pinter:before {
+        width: 100%;
+    }
+
+    .search-01 .btn {
+        background: #1999d9;
+        color: #fff;
+    }
+}
+
+/*=================================================			FROM 768PX TO 979PX=================================================*/
+@media (min-width: 768px) and (max-width: 979px) {}
+
+/*=================================================			FROM 0PX TO 767PX=================================================*/
+@media (max-width: 767px) {
+    .dl-menuwrapper {
+        margin: 15px;
+    }
+
+    .container.banner-caption {
+        margin-top: -37px;
+        display: none;
+    }
+
+    .title-1 {
+        font-size: 17px;
+        line-height: 15px;
+        margin-bottom: 8px;
+    }
+
+    .title-3 {
+        display: none;
+    }
+
+    .container.banner-caption .btn-normal-1 {
+        padding: 0.5px 12px;
+        font-size: 12px;
+    }
+
+    .travel_search_engine {
+        padding: 0px;
+    }
+
+    div.blog-1 {
+        width: 100%;
+    }
+
+    .kf_filtrable_pinter li {
+        margin-bottom: 30px;
+    }
+
+    .kf_filtrable_pinter:before {
+        width: 100%;
+    }
+
+    .summer_offer_show h2,
+    .summer_offer_show span {
+        margin-bottom: 10px;
+    }
+
+    .summer_offer_show h3 {
+        line-height: 34px;
+    }
+
+    .summer_offer_show {
+        padding: 50px;
+    }
+
+    .created-by-kodeforest-team span {
+        padding: 2px 0 10px;
+    }
+
+    .dl-menuwrapper button {
+        height: 40px;
+    }
+
+    .country-info li h6,
+    .country-info li h6 strong,
+    div.kf_element_left,
+    div.kf_element_right,
+    div.header_v1_slider {
+        float: left;
+        width: 100%;
+    }
+
+    ul.tabs-items li a {
+        padding: 23px 0px 22.5px;
+    }
+
+    div.kf_element_right {
+        float: right;
+        width: 100%;
+        margin: 0px 0 12px;
+        padding: 0px 0 0px;
+    }
+
+    div.dl-menuwrapper {
+        margin-bottom: 0px;
+    }
+
+    div.header-v1-right {
+        margin: 14px 0 0px;
+    }
+
+    .bottom-price {
+        bottom: auto;
+        margin-bottom: 0px;
+        right: 0;
+        top: 0px;
+    }
+
+    .bottom-price .radio-price {
+        border: medium none;
+        border-radius: 0 0 0 10px;
+        font-weight: 600;
+        height: 30px;
+        line-height: 30px;
+        width: 58px;
+    }
+
+    .blog-1 {
+        width: 100%;
+    }
+
+    .kf_trending_citys li {
+        width: 50%;
+        float: left;
+    }
+
+    .kf_summer_offers .summer_offer_show,
+    div.summer_offer_show {
+        padding: 100px 0px;
+        width: 100%;
+    }
+
+    div.kf_summer_picture {
+        width: auto;
+    }
+
+    .kf_cradit_cards {
+        width: 100%;
+        position: relative;
+    }
+
+    .created-by-kodeforest-team {
+        text-align: center;
+    }
+
+    .list-services {
+        float: left;
+        width: 100%;
+    }
+
+    .list-services li {
+        padding: 0px;
+        text-align: center;
+    }
+
+    .list-services li span {
+        display: inline-block;
+        float: none;
+        margin-bottom: 15px;
+    }
+
+    div.full-slider div.slide,
+    .list-services .list-content {
+        width: 100%;
+        padding: 0px;
+    }
+
+    div.slide-content {
+        margin-top: 0px;
+    }
+
+    .slide-content p {
+        display: none;
+    }
+
+    .top-row .page-info {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    div.pp_default .pp_close {
+        right: 0px !important;
+        margin-top: 0px !important;
+    }
+
+    .tour-trip-visit .play-tour:before,
+    .tour-trip-visit .play-tour:after {
+        transform: scale(0.2);
+    }
+
+    div.kode_tour_caption,
+    div.tour-trip-visit {
+        width: 100%;
+    }
+
+    div.kode_tour_caption {
+        padding: 28px 0px 30px;
+    }
+
+    div.kode_tour_caption h2 {
+        line-height: 60px;
+        font-size: 60px;
+    }
+
+    div.kode_tour_caption>span {
+        margin-bottom: 0px;
+        padding: 0px;
+    }
+
+    div.kode_tour_weather #weather span {
+        line-height: 23px;
+    }
+
+    ul.kode_navi_fixed.nav li {
+        width: 50%;
+        float: left;
+    }
+
+    ul.kode_navi_fixed.nav .nav-icon i {
+        display: none;
+    }
+
+    ul.kode_navi_fixed.nav .nav-icon span {
+        font-size: 13px;
+    }
+
+    div.fixed-header {
+        margin-top: 108px;
+    }
+
+    div.kf_culture_content {
+        width: 100%;
+        padding: 0;
+    }
+
+    div.kf_culture_content h2 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    div.kf_culture_pictures {
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    div.kode_history_content,
+    div.kode_history_blog {
+        width: 100%;
+    }
+
+    div.kode_history_content {
+        padding: 50px 0 34px;
+    }
+
+    div.title-style-1,
+    div.heading h2 {
+        font-size: 24px;
+    }
+
+    div.text-align-left .title-style-1:before,
+    div.text-align-left.heading h2:before {
+        right: auto;
+        top: 100%;
+        margin: 9px auto;
+    }
+
+    .text-align-left.heading h2 {
+        font-size: 18px;
+    }
+
+    div.kode_history_blog {
+        margin: 0 0 10px;
+    }
+
+    div.heading span {
+        margin-bottom: 0px;
+    }
+
+    div.five-blog-slider .slick-list.draggable:after,
+    div.five-blog-slider .slick-list.draggable:before {
+        display: none;
+    }
+
+    div.five-blog-slider div.blog_elements {
+        margin-bottom: 0px;
+    }
+
+    div.travel_attraction_content div.travel_attraction_footer {
+        margin-bottom: -39px;
+        padding: 0px 15px;
+        left: 0px;
+        bottom: 50%;
+    }
+
+    .country-info li h6 strong {
+        width: auto;
+        padding: 19px 20px 20px;
+    }
+
+    .table-blog {
+        margin-bottom: 30px;
+    }
+
+    div.height-239 {
+        height: auto;
+    }
+
+    #mainNav {
+        display: none;
+    }
+
+    .tour-location-widget,
+    .tour-checkbox {
+        width: 100%;
+    }
+
+    .btn-blog:before {
+        right: 12px;
+    }
+
+    .kf_listing-content,
+    .list-figure-img {
+        width: 100%;
+    }
+
+    .kf_listing-content {
+        padding: 20px 0px 0px;
+    }
+
+    .tour-sub-caption .tour-social-icons .btn-normal-6:first-of-type {
+        margin-left: 0px !important;
+    }
+
+    .tour-support-items li {
+        width: 100%;
+    }
+
+    .tour-support-items {
+        padding: 30px 30px 20px;
+    }
+
+    ul.details-items-gallery li {
+        width: 44%;
+    }
+
+    .width-50 {
+        width: 100%;
+    }
+
+    .kf_blog-02 figure:before {
+        height: 76px;
+    }
+
+    .form-box .text-area,
+    .form-box .text-felid,
+    .widget-post-content,
+    .widget-post figure,
+    .widget-post {
+        width: 100%;
+    }
+
+    .form-box .text-felid {
+        padding: 0px;
+    }
+
+    .form-box {
+        margin-bottom: 30px;
+    }
+
+    .error-page h2 {
+        font-size: 180px;
+        line-height: 130px;
+    }
+
+    .error-page h2 span {
+        display: inline-block;
+        font-size: 65px;
+        font-weight: 600;
+        left: 0;
+        line-height: 60px;
+        margin: -47px auto 0;
+        padding: 3px 0;
+        position: absolute;
+        right: -20px;
+        text-transform: uppercase;
+        top: 50%;
+        width: 68%;
+        z-index: 1;
+    }
+
+    .error-page h3 {
+        font-size: 45px;
+    }
+
+    .error-page a {
+        padding: 15px;
+        margin: 0px;
+    }
+
+    .kf-countdown-1 li {
+        width: 23%;
+    }
+
+    .top-row .dropdown-select-01 .selectric .label {
+        font-size: 13px;
+    }
+
+    .top-row .dropdown-select-01 {
+        margin-right: 0px;
+    }
+
+    .kf_filtrable_pinter li a {
+        font-size: 0px;
+    }
+
+    .kf_filtrable_pinter li a i {
+        font-size: 40px;
+        display: block;
+    }
+
+    .kf_summer_picture {
+        display: none;
+    }
+
+    .subscribe-form .text-felid button {
+        font-size: 0px;
+        padding: 11.5px 25px 10.5px;
+    }
+
+    .subscribe-form .text-felid button i {
+        font-size: 20px;
+        color: #fff;
+        display: block;
+    }
+
+    .subscribe-form .text-felid button:hover i {
+        color: #333;
+    }
+
+    .kf_summer_offers .summer_offer_show {
+        padding: 80px 0px;
+    }
+}
+
+/*=================================================			FROM 0PX TO 0PX=================================================*/
+@media (max-width: 480px) {
+    .header-v1_navigation_row nav.navigation {
+        display: none !important;
+    }
+
+    div.pp_default .pp_close {
+        right: 0px !important;
+        margin-top: 0px !important;
+    }
+}

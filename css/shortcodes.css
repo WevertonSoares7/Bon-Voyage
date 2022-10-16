@@ -1,0 +1,1584 @@
+/*	Created by kodeforest=====================================	Short codes File=====================================*/
+.no-padding {
+    padding: 0px;
+}
+
+/*	  ============================================================		   TRAVEL ALIGN's	  ============================================================*/
+.text-align-left {
+    text-align: left;
+}
+
+.text-align-center {
+    text-align: center;
+    float: left;
+    width: 100%;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+/*	  ============================================================		   TRAVEL POSITION'S	  ============================================================*/
+.position-right {
+    text-align: right;
+}
+
+.position-center {
+    text-align: center;
+}
+
+.position-left {
+    text-align: left;
+}
+
+/*	  ============================================================		   TRAVEL SOCIAL ICONS	  ============================================================*/
+.kode_social_icons {
+    float: left;
+}
+
+.kode_social_icons li {
+    float: left;
+    width: auto;
+}
+
+.kode_social_icons li a {
+    display: inline-block;
+    color: #fff;
+    padding: 13px 0px 13px 20px;
+}
+
+.kode_social_icons li:hover a {}
+
+/*	  ============================================================		   TRAVEL META 1	  ============================================================*/
+.kf_meta {
+    float: left;
+    width: 100%;
+}
+
+.kf_meta_2 li,
+.kf_meta li {
+    float: left;
+    width: auto;
+    position: relative;
+    margin-right: 7px;
+    padding-right: 7px;
+    line-height: normal;
+}
+
+.kf_meta_2 li:before,
+.kf_meta li:before {
+    position: absolute;
+    content: "";
+    top: 50%;
+    margin-top: -10px;
+    right: 0px;
+    border-right: 2px solid #fff;
+    bottom: 0px;
+    height: 16px;
+    -moz-transform: rotate(12deg);
+    -o-transform: rotate(12deg);
+    -webkit-transform: rotate(12deg);
+    transform: rotate(12deg);
+}
+
+.kf_meta li span {
+    float: left;
+    margin-right: 10px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    color: #fff;
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    line-height: 19px;
+}
+
+.kf_meta_2 li a,
+.kf_meta li a {
+    display: inline-block;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.kf_meta_2 li:last-child,
+.kf_meta li:last-child {
+    padding-right: 0px;
+    margin-right: 0px;
+}
+
+.kf_meta_2 li:last-child:before,
+.kf_meta li:last-child:before {
+    display: none;
+}
+
+.kf_meta_2 li:hover a,
+.kf_meta li:hover a {
+    color: #0765a7;
+}
+
+.kf_meta_2 li a {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.kf_meta_2 li {
+    margin-right: 6px;
+    padding-right: 8px;
+}
+
+.kf_meta_2 li span {
+    color: #fff;
+    float: left;
+    padding: 4.5px 5px 0 0;
+}
+
+.kf_meta_2 li:before {
+    margin-top: -6px;
+    height: 12px;
+}
+
+.kf_icons_meta {
+    float: left;
+    width: auto;
+    padding: 2px 0px;
+    margin-right: 20px;
+}
+
+.kf_icons_meta li {
+    float: left;
+    line-height: 0px;
+    margin-right: 10px;
+}
+
+.kf_icons_meta li:last-child {
+    margin-right: 0px;
+}
+
+.kf_icons_meta li a {
+    font-size: 18px;
+    color: #fff;
+    line-height: normal;
+    display: inline-block;
+}
+
+.meta_tag {
+    float: left;
+    width: 100%;
+}
+
+.meta_tag li {
+    float: left;
+    width: auto;
+    margin-right: 15px;
+}
+
+.meta_tag li:last-child {
+    margin-right: 0px;
+}
+
+.social_icons_tags span,
+.meta_tag li span {
+    display: inline-block;
+    padding: 4px 10px 0px 0px;
+}
+
+.meta_tag li a {
+    display: inline-block;
+}
+
+.social_icons_tags span,
+.meta_tag li span,
+.meta_tag li a {
+    font-size: 14px;
+    color: #666666;
+}
+
+.tags-share {
+    float: left;
+    width: 100%;
+}
+
+.tags-share .meta_tag li:first-child {
+    margin-right: 15px;
+}
+
+.tags-share .meta_tag li {
+    position: relative;
+    margin-right: 5px;
+}
+
+.tags-share .meta_tag li:last-child:before,
+.tags-share .meta_tag li:first-child:before {
+    display: none;
+}
+
+.tags-share .meta_tag li:before {
+    position: absolute;
+    content: ",";
+    bottom: 4px;
+    right: -5px;
+    font-size: 20px;
+    color: #999;
+}
+
+.social_icons_tags span {
+    float: left;
+    padding-top: 10px;
+    padding-right: 19px;
+}
+
+.sprate-border {
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #fff;
+    margin: 30px 0px 26px;
+}
+
+.margin-bottom-15 {
+    margin-bottom: 15px;
+}
+
+.kf_arrow_list {
+    float: left;
+    width: 100%;
+    margin-top: -6px;
+}
+
+.kf_arrow_list li {
+    float: left;
+    width: 100%;
+    margin-bottom: 6px;
+}
+
+.kf_arrow_list li:last-child {
+    margin-bottom: 0px;
+}
+
+.kf_arrow_list li a {
+    display: inline-block;
+    color: #fff;
+    font-size: 14px;
+    text-transform: capitalize;
+    padding: 0px 25px;
+    position: relative;
+}
+
+.kf_arrow_list li a:before {
+    position: absolute;
+    content: "\f105";
+    top: 50%;
+    font-family: fontawesome;
+    font-size: 14px;
+    color: #fff;
+    left: 0px;
+    margin-top: -13px;
+}
+
+.kf_arrow_list li:hover a:before {
+    left: 5px;
+}
+
+/*	  ============================================================		   TRAVEL SELECTRIC DEFAULT STYLE	  ============================================================*/
+.selectric-wrapper {
+    background: transparent;
+    border: none;
+    border-radius: 0px;
+    min-height: 50px;
+}
+
+.kf_select:first-child {
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.kf_select {
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.selectric-wrapper .selectric .label {
+    height: 50px;
+    line-height: 50px;
+    color: #fff;
+    padding: 0 34px 0 15px;
+}
+
+.selectric .button {
+    color: #fff;
+    padding: 13px 0;
+    display: none;
+}
+
+.selectric p.label:before {
+    position: absolute;
+    content: "\f107";
+    font-family: fontawesome;
+    font-size: 14px;
+    top: 50%;
+    margin-top: -26px;
+    color: #fff;
+    right: 15px;
+}
+
+.selectric-items {
+    border: none;
+}
+
+.selectric-items ul,
+.selectric-items li {
+    padding: 0px;
+}
+
+.selectric-items li {
+    padding: 9px 14px 7px;
+}
+
+.selectric-open .selectric-items {
+    border-radius: 0px;
+    box-shadow: 0px 2px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.selectric-items li.selected {
+    color: #333;
+}
+
+.kf_select .selectric-wrapper.selectric-open,
+.selectric-items li.selected,
+.selectric-items li.selected.last,
+.selectric-items li:hover {
+    background: #0765a7;
+    color: #fff;
+}
+
+/*	  ============================================================		   TRAVEL SELECTRIC DEFAULT STYLE ENDS	  ============================================================*/
+/*	  ============================================================		   TRAVEL NAV FLAG 	  ============================================================*/
+.flg-1 {
+    color: #fff;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 500;
+    left: 10%;
+    line-height: 7px;
+    margin-left: 8px;
+    padding: 4px 3px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 0;
+}
+
+.flg-1:before {
+    position: absolute;
+    content: "";
+    bottom: -5px;
+    left: 0px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 5px 2px 0 0;
+}
+
+/*	  ============================================================		   TRAVEL BUTTONS STYLES	  ============================================================*/
+.btn-normal-2,
+.btn-normal-3,
+.btn-normal-4,
+.btn-normal-5,
+.btn-normal-1 {
+    display: inline-block;
+    /*padding:7px 35px;*/
+    padding: 7px 28px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #fff;
+}
+
+/*.btn-normal-2{	padding:11.5px 44px;	text-transform:uppercase;	font-weight:600;	color:#fff;	font-size:16px;	display:inline-block;}.btn-normal-3{	display:inline-block;	font-size:20px;	font-weight:500;	text-transform:uppercase;	padding:11.5px 24px;	color:#fff;	cursor:pointer;}.btn-normal-4{	display:inline-block;	padding:10.5px 30px 8.5px;	color:#fff;	font-size:16px;	font-weight:bold;	border:2px solid #fff;	text-transform:uppercase;}.btn-normal-5{	display:inline-block;	font-size:18px;	font-weight:600;	color:#262626;	text-transform:uppercase;	padding:9.5px 34px;}*/
+.radio-btn {
+    display: inline-block;
+    width: 102px;
+    height: 102px;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 100%;
+    border: 1px solid #fff;
+    font-size: 25px;
+    color: #fff;
+    padding: 0 43px;
+}
+
+.radio-btn-2 {
+    position: relative;
+    display: inline-block;
+    height: 56px;
+    width: 56px;
+    text-align: center;
+    line-height: 54px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+}
+
+.radio-btn-2:before {
+    position: absolute;
+    content: "\f067";
+    font-weight: 300;
+    font-family: fontawesome;
+    color: #fff;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+/*	  ============================================================		   Effect 1 color 1	  ============================================================*/
+.effect1-color-1 {
+    color: rgba(255, 255, 255, 1);
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    position: relative;
+    z-index: 3;
+}
+
+.effect1-color-1 a {
+    color: rgba(255, 255, 255, 1);
+    text-decoration: none;
+    display: block;
+}
+
+.effect1-color-1::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    border: 1px solid rgba(18, 118, 188, 0.5);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.effect1-color-1:hover::before {
+    opacity: 0;
+    -webkit-transform: scale(1.2, 1.2);
+    transform: scale(1.2, 1.2);
+}
+
+.effect1-color-1::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0;
+    background-color: rgba(18, 118, 188, 1);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    -webkit-transform: scale(0.5, 0.5);
+    transform: scale(0.5, 0.5);
+}
+
+.effect1-color-1:hover::after {
+    opacity: 1;
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+}
+
+.effect1-color-1:hover {
+    color: #fff;
+}
+
+.effect2-color-1 {
+    color: rgba(255, 255, 255, 1);
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    position: relative;
+    z-index: 2;
+}
+
+.effect2-color-1 a {
+    color: rgba(255, 255, 255, 1);
+    text-decoration: none;
+    display: block;
+}
+
+.effect2-color-1::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(18, 118, 188, 1);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.effect2-color-1:hover::before {
+    opacity: 0;
+    -webkit-transform: scale(0.5, 0.5);
+    transform: scale(0.5, 0.5);
+}
+
+.effect2-color-1::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    border: 1px solid rgba(18, 118, 188, 1);
+    -webkit-transform: scale(1.2, 1.2);
+    transform: scale(1.2, 1.2);
+}
+
+.effect2-color-1:hover::after {
+    opacity: 1;
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+}
+
+.effect2-color-1:hover {}
+
+.effect3-color-1 {
+    color: rgba(255, 255, 255, 1);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    position: relative;
+    border: 1px solid rgba(18, 118, 188, 0.5);
+    overflow: hidden;
+}
+
+/*	  ============================================================		   Effect 3 color 1	  ============================================================*/
+.effect3-color-1 a {
+    color: rgba(255, 255, 255, 1);
+    text-decoration: none;
+    display: block;
+}
+
+.effect3-color-1::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(18, 118, 188, 0.25);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    -webkit-transform: translate(13%, -190%) rotate(30deg);
+    transform: translate(13%, -190%) rotate(30deg);
+    -webkit-transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+    transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+}
+
+.effect3-color-1::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(18, 118, 188, 0.25);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    -webkit-transform: translate(-13%, -190%) rotate(-30deg);
+    transform: translate(-13%, -190%) rotate(-30deg);
+    -webkit-transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+    transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+}
+
+.effect3-color-1::before {
+    -webkit-transition-delay: 0.2s;
+    /* Safari */
+    transition-delay: 0.2s;
+}
+
+.effect3-color-1:hover::before,
+.effect3-color-1:hover::after {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+
+/*	  ============================================================		   Effect 1 color 2	  ============================================================*/
+.effect-color-2 {
+    color: rgba(255, 255, 255, 1);
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    position: relative;
+    z-index: 10;
+}
+
+.effect-color-2 a {
+    color: rgba(255, 255, 255, 1);
+    text-decoration: none;
+    display: block;
+}
+
+.effect-color-2::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    border: 1px solid rgba(245, 96, 12, 0.5);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.effect-color-2:hover::before {
+    opacity: 0;
+    -webkit-transform: scale(1.2, 1.2);
+    transform: scale(1.2, 1.2);
+}
+
+.effect-color-2::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0;
+    background-color: rgba(245, 96, 12, 1);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    -webkit-transform: scale(0.5, 0.5);
+    transform: scale(0.5, 0.5);
+}
+
+.effect-color-2:hover::after {
+    opacity: 1;
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+}
+
+/*	  ============================================================		   Effect 2 color 2	  ============================================================*/
+.effect2-color-2 {
+    color: rgba(255, 255, 255, 1);
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    position: relative;
+    z-index: 10;
+}
+
+.effect2-color-2 a {
+    color: rgba(255, 255, 255, 1);
+    text-decoration: none;
+    display: block;
+}
+
+.effect2-color-2::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(245, 96, 12, 1);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.effect2-color-2:hover::before {
+    opacity: 0;
+    -webkit-transform: scale(0.5, 0.5);
+    transform: scale(0.5, 0.5);
+}
+
+.effect2-color-2::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    border: 1px solid rgba(245, 96, 12, 0.5);
+    -webkit-transform: scale(1.2, 1.2);
+    transform: scale(1.2, 1.2);
+}
+
+.effect2-color-2:hover::after {
+    opacity: 1;
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+}
+
+.effect2-color-2:hover {}
+
+/*	  ============================================================		   Effect 3 color 2	  ============================================================*/
+.effect3-color-2 {
+    color: rgba(255, 255, 255, 1);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    position: relative;
+    border: 1px solid rgba(245, 96, 12, 0.5);
+    overflow: hidden;
+    z-index: 10;
+}
+
+.effect3-color-2 a {
+    color: rgba(255, 255, 255, 1);
+    text-decoration: none;
+    display: block;
+}
+
+.effect3-color-2::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(245, 96, 12, 0.25);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    -webkit-transform: translate(13%, -190%) rotate(30deg);
+    transform: translate(13%, -190%) rotate(30deg);
+    -webkit-transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+    transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+}
+
+.effect3-color-2::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(245, 96, 12, 0.25);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    -webkit-transform: translate(-13%, -190%) rotate(-30deg);
+    transform: translate(-13%, -190%) rotate(-30deg);
+    -webkit-transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+    transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+}
+
+.effect3-color-2::before {
+    -webkit-transition-delay: 0.2s;
+    /* Safari */
+    transition-delay: 0.2s;
+}
+
+.effect3-color-2:hover::before,
+.effect3-color-2:hover::after {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+
+/*	  ============================================================		   Effect ends	  ============================================================*/
+/*	  ============================================================		   Effect white	  ============================================================*/
+.effect-white {
+    color: rgba(51, 51, 51, 1);
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    position: relative;
+    z-index: 10;
+}
+
+.effect-white a {
+    color: rgba(51, 51, 51, 1);
+    text-decoration: none;
+    display: block;
+}
+
+.effect-white::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(255, 255, 255, 1);
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.effect-white:hover::before {
+    opacity: 0;
+    -webkit-transform: scale(0.5, 0.5);
+    transform: scale(0.5, 0.5);
+}
+
+.effect-white::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    -webkit-transform: scale(1.2, 1.2);
+    transform: scale(1.2, 1.2);
+}
+
+.effect-white:hover::after {
+    opacity: 1;
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+}
+
+.effect-white:hover {
+    color: #fff;
+}
+
+/*	  ============================================================		   TRAVEL OVERLAY	  ============================================================*/
+.overlay-60,
+.overlay-30,
+.overlay-blue,
+.overlay {
+    position: relative;
+}
+
+.overlay-white-80:before,
+.overlay-60:before,
+.travel_paris_blog figure:before,
+.overlay-30:before,
+.overlay-blue:before,
+.overlay:before {
+    position: absolute;
+    content: "";
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0.40;
+}
+
+.overlay-60:before,
+.travel_paris_blog figure:before,
+.overlay-30:before,
+.overlay:before {
+    background: #000;
+}
+
+.overlay-blue:before {
+    opacity: 0.9;
+}
+
+.overlay-60:before {
+    opacity: 0.60;
+}
+
+.overlay-30:before {
+    opacity: 0.30
+}
+
+.travel_paris_blog figure:before {
+    opacity: 0.3;
+}
+
+/*	  ============================================================		   TRAVEL  HEADINGS	  ============================================================*/
+.heading {
+    float: left;
+    width: 100%;
+    margin-bottom: 45px;
+    margin-top: -4px;
+}
+
+.heading span {
+    display: inline-block;
+    font-size: 14px;
+    color: #221e00;
+    text-transform: capitalize;
+    width: 100%;
+    margin-bottom: 9px;
+}
+
+.title-style-1,
+.heading h2 {
+    font-weight: bold;
+    color: #221e00;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 24px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.title-style-1:before,
+.heading h2:before {
+    position: absolute;
+    content: "";
+    bottom: 0px;
+    background-image: url(../images/haeding_bar.png);
+    height: 10px;
+    background-repeat: no-repeat;
+    width: 32%;
+    margin: 0 auto;
+    left: 0px;
+    right: 0px;
+    background-position: center;
+    background-size: contain;
+}
+
+.text-align-left .title-style-1:before,
+.text-align-left.heading h2:before {
+    bottom: auto;
+    content: "";
+    height: 10px;
+    left: auto;
+    margin: -1px auto;
+    position: absolute;
+    right: -117px;
+    top: 50%;
+    width: 32%;
+}
+
+.text-align-left h5.title-style-1:before {
+    background-size: cover;
+    margin: -4px auto;
+    right: -109px;
+    width: 89px;
+}
+
+.text-align-left .title-style-1,
+.text-align-left.heading h2 {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.white-color h5,
+.white-color h2,
+.white-color span {
+    color: #fff;
+    position: relative;
+}
+
+.white-color h5:before,
+.white-color h2:before {
+    background-image: url(../images/haeding_bar-white.png);
+}
+
+/*	  ============================================================		   TRAVEL  BLOCKQOUTES	  ============================================================*/
+blockquote {
+    margin-bottom: 40px;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+/*	  ============================================================		   TRAVEL  BULLETS	  ============================================================*/
+.bullets {
+    float: left;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.travel-bullets-accordian li span,
+.bullets li {
+    float: left;
+    width: 100%;
+    list-style: none;
+    position: relative;
+    padding-left: 26px;
+    margin-bottom: 7px;
+}
+
+.bullets li:last-child span {
+    margin-bottom: 0px;
+}
+
+.travel-bullets-accordian li span:before,
+.bullets li:before {
+    position: absolute;
+    content: "";
+    top: 50%;
+    left: 0px;
+    border: 3px solid #999;
+    border-radius: 100%;
+    margin-top: -3px;
+}
+
+.travel-bullets-accordian li p,
+.bullets li p {
+    margin-bottom: 0px;
+    color: #999999;
+    display: inline-block;
+}
+
+.map-history-caption .bullets li:last-child {
+    margin-bottom: 3px;
+}
+
+/*	  ============================================================		   TRAVEL  BULLETS 2	  ============================================================*/
+.bullets_2 {
+    float: left;
+    width: 100%;
+}
+
+.bullets_2 li {
+    float: left;
+    width: 100%;
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 2px;
+}
+
+.bullets_2 li:last-child {
+    margin-bottom: 0px;
+}
+
+.bullets_2 li:before {
+    position: absolute;
+    content: "\f0da";
+    font-family: fontawesome;
+    top: 50%;
+    left: 0px;
+    color: #fff;
+    font-size: 16px;
+    margin-top: -13px;
+}
+
+.bullets_2 li a {
+    color: #fff;
+    display: inline-block;
+}
+
+/*	  ============================================================		   TRAVEL  MARGIN	  ============================================================*/
+.margin-top-20,
+.margin-bottom-0,
+.margin-bottom-17,
+.margin-bottom-23,
+.margin-bottom-40,
+.margin-bottom-50,
+.margin-bottom-27,
+.margin-bottom-20,
+.margin-bottom-30 {
+    float: left;
+    width: 100%;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-bottom-50 {
+    margin-bottom: 50px;
+}
+
+.margin-bottom-40 {
+    margin-bottom: 40px;
+}
+
+.margin-bottom-30 {
+    margin-bottom: 30px;
+}
+
+.margin-bottom-27 {
+    margin-bottom: 27px;
+}
+
+.margin-bottom-23 {
+    margin-bottom: 23px;
+}
+
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
+
+.margin-bottom-17 {
+    margin-bottom: 17px;
+}
+
+.margin-bottom-0 {
+    margin-bottom: 0px;
+}
+
+.border-line-style {
+    position: relative;
+}
+
+.border-line-style:before {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    content: "";
+    width: 40px;
+    bottom: 0px;
+    border-bottom: 1px solid;
+    margin: 0 auto;
+}
+
+.border-line {
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 40px;
+}
+
+/*	  ============================================================		   TRAVEL  META	  ============================================================*/
+.meta-icon-list {
+    float: left;
+    width: 100%;
+}
+
+.meta-icon-list {}
+
+.meta-icon-list li {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 12px;
+}
+
+.meta-icon-list li i {
+    float: left;
+    font-size: 20px;
+    margin-right: 15px;
+    color: #666666;
+    padding: 3px 0px 0px;
+}
+
+.meta-icon-list li span {
+    margin-right: 10px;
+    font-size: 15px;
+    color: #666666;
+    font-weight: 400;
+    display: inline-block;
+}
+
+.meta-icon-list li span small {
+    font-size: 100%;
+    color: #999999;
+    margin-bottom: 0px;
+}
+
+.meta-icon-list li:last-child {
+    margin-bottom: 0px;
+}
+
+.border-meta li {
+    position: relative;
+    padding-right: 16px;
+    color: #666666;
+}
+
+.border-meta li:last-child:before {
+    display: none;
+}
+
+.border-meta li:last-child {
+    padding-right: 0px;
+    margin-right: 0px;
+}
+
+.border-meta li:before {
+    border-right: 1px solid #666666;
+    top: 5px;
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 5px;
+}
+
+/*	  ============================================================		   TRAVEL  HOVER EFFECT 4	  ============================================================*/
+.hover-content-01 {
+    float: left;
+    width: 100%;
+}
+
+.hover-effect-01 figure {
+    background: #3085a3;
+    float: left;
+}
+
+.hover-effect-01 img {
+    opacity: 0.95;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -moz-transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: scale3d(1.05, 1.05, 1);
+    transform: scale3d(1.05, 1.05, 1);
+    -moz-transform: scale3d(1.05, 1.05, 1);
+}
+
+.hover-effect-01 .hover-content-01:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.5);
+    content: '';
+    -webkit-transition: -webkit-transform 0.6s;
+    transition: transform 0.6s;
+    -webkit-transform: scale3d(1.9, 1.4, 1) rotate3d(0, 0, 1, 45deg) translate3d(0, -100%, 0);
+    transform: scale3d(1.9, 1.4, 1) rotate3d(0, 0, 1, 45deg) translate3d(0, -100%, 0);
+    -moz-transition: -moz-transform 0.6s;
+    -moz-transition: transform 0.6s;
+    -moz-transform: scale3d(1.9, 1.4, 1) rotate3d(0, 0, 1, 45deg) translate3d(0, -100%, 0);
+    -moz-transform: scale3d(1.9, 1.4, 1) rotate3d(0, 0, 1, 45deg) translate3d(0, -100%, 0);
+}
+
+.hover-effect-01:hover img {
+    opacity: 0.6;
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+    -moz-transform: scale3d(1, 1, 1);
+    -moz-transform: scale3d(1, 1, 1);
+}
+
+.hover-effect-01:hover .hover-content-01:before {
+    -webkit-transform: scale3d(1.9, 1.4, 1) rotate3d(0, 0, 1, 45deg) translate3d(0, 100%, 0);
+    transform: scale3d(1.9, 1.4, 1) rotate3d(0, 0, 1, 45deg) translate3d(0, 100%, 0);
+    -moz-transform: scale3d(1.9, 1.4, 1) rotate3d(0, 0, 1, 45deg) translate3d(0, 100%, 0);
+    -moz-transform: scale3d(1.9, 1.4, 1) rotate3d(0, 0, 1, 45deg) translate3d(0, 100%, 0);
+}
+
+/* Common style */
+.hover-effect-01 figure img {
+    position: relative;
+    display: block;
+    min-height: 100%;
+    max-width: 100%;
+    opacity: 0.8;
+}
+
+.hover-effect-01 figure .hover-content-01:before,
+.hover-effect-01 figure .hover-content-01:after {
+    pointer-events: none;
+    backface-visibility: hidden;
+}
+
+/*---------------*/
+/***** Sadie *****/
+/*---------------*/
+.kf-expert-columns figure:before,
+.hover-effect-02 .hover-content-02::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: -webkit-linear-gradient(top, rgba(72, 76, 97, 0) 0%, rgba(72, 76, 97, 0.8) 75%);
+    background: linear-gradient(to bottom, rgba(72, 76, 97, 0) 0%, rgba(72, 76, 97, 0.8) 75%);
+    content: '';
+    opacity: 0;
+    -webkit-transform: translate3d(0, 50%, 0);
+    transform: translate3d(0, 50%, 0);
+}
+
+.kf-expert-columns figure::before,
+.hover-effect-02 .hover-content-02:before {
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+}
+
+.kf-expert-columns:hover figure:before,
+.hover-effect-02:hover .hover-content-02:before {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+/*	  ============================================================		   TRAVEL  ZOOM HOVER EFFECT 5	  ============================================================*/
+.zoom-picture1 {
+    display: inline-block;
+    position: relative;
+    float: left;
+}
+
+.zoom-picture1 img {
+    display: block;
+    width: 100%;
+    cursor: pointer;
+}
+
+.height-239 {
+    /*height: 239px;*/
+}
+
+/* Effect 5: same word slide in */
+.txt-hvr a {
+    overflow: hidden;
+    padding: 0 4px;
+    display: inline-block;
+}
+
+.txt-hvr a span {
+    position: relative;
+    display: inline-block;
+    -webkit-transition: -webkit-transform 0.3s;
+    -moz-transition: -moz-transform 0.3s;
+    transition: transform 0.3s;
+    margin-bottom: 0px;
+}
+
+.txt-hvr a span::before {
+    position: absolute;
+    top: 100%;
+    content: attr(data-hover);
+    font-weight: 700;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.txt-hvr a:hover span,
+.txt-hvr a:focus span {
+    -webkit-transform: translateY(-100%);
+    -moz-transform: translateY(-100%);
+    transform: translateY(-100%);
+}
+
+.txt-hvr2 a {
+    padding: 10px 0;
+    border-top: 2px solid #0972b4;
+    color: #0972b4;
+    display: inline-block;
+    text-shadow: none;
+    position: relative;
+    overflow: hidden;
+}
+
+.txt-hvr2 a:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    padding: 10px 0;
+    max-width: 0;
+    border-bottom: 2px solid #fff;
+    color: #000;
+    content: attr(data-hover);
+    -webkit-transition: max-width 0.5s;
+    -moz-transition: max-width 0.5s;
+    transition: max-width 0.5s;
+}
+
+.txt-hvr2 a:hover::before,
+.txt-hvr2 a:focus::before {
+    max-width: 100%;
+}
+
+.txt-hvr3 a {
+    -webkit-transition: color 0.3s;
+    -moz-transition: color 0.3s;
+    transition: color 0.3s;
+    display: inline-block;
+    position: relative;
+}
+
+.txt-hvr3 a::before {
+    position: absolute;
+    bottom: 0%;
+    top: auto;
+    left: 50%;
+    color: transparent;
+    content: '•';
+    text-shadow: 0 0 transparent;
+    font-size: 1.2em;
+    -webkit-transition: text-shadow 0.3s, color 0.3s;
+    -moz-transition: text-shadow 0.3s, color 0.3s;
+    transition: text-shadow 0.3s, color 0.3s;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    transform: translateX(-50%);
+    pointer-events: none;
+}
+
+.txt-hvr3 a:hover::before,
+.txt-hvr3 a:focus::before {
+    color: #1276bc;
+    text-shadow: 10px 0 #1276bc, -10px 0 #1276bc;
+}
+
+.txt-hvr3 a:hover,
+.txt-hvr3 a:focus {}
+
+/*	  ============================================================		   TRAVEL  PRE LOADERS	  ============================================================*/
+.pre-loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #1eb3f4;
+    height: 100%;
+    text-align: center;
+    z-index: 99999;
+}
+
+.pre-loader-img {
+    background: url(../images/pre-loader.gif);
+    text-align: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: inherit;
+    background-position: center;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+}
+
+/*	  ============================================================		   TRAVEL  TOOLTIP	  ============================================================*/
+.simple-tooltip-container {
+    position: relative;
+}
+
+.simple-tooltip-tooltip {
+    position: absolute;
+    z-index: 666;
+    top: 50%;
+    left: 50%;
+    width: 15em;
+    background: #fff;
+    background: rgba (255, 255, 255, .9);
+    border: 1px solid #882525;
+    border-radius: .5em;
+    padding: 1em;
+    text-align: left;
+}
+
+.simple-tooltip-tooltip__title {
+    margin: 0;
+    line-height: 1;
+}
+
+.simple-tooltip-tooltip p {
+    font-size: 1em;
+}
+
+.simple-tooltip-tooltip__close {
+    float: right;
+    /** fix typo inputs **/
+    font-family: inherit;
+    font-size: 1em;
+    background: #882525;
+    color: #fff;
+    border-radius: 1em;
+}
+
+/* it can be easily adapted in media-queries for tablets/mobile */
+/* for this example: tablets */
+@media (max-width: 55.625em) {
+    .simple-tooltip-container {
+        position: static;
+    }
+
+    .simple-tooltip-tooltip {
+        position: static;
+        width: auto;
+        margin-top: 1em;
+    }
+}
+
+.left-tooltip-tooltip {
+    left: auto;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    z-index: 667;
+    position: fixed;
+    width: 25em;
+    max-width: 100%;
+    background: #f00;
+    padding: .5em;
+    font-size: 1em;
+    border: 0;
+    animation: fromleft .3s linear;
+    background-image: -webkit-linear-gradient(top, #882525 3em, #f7f7f7 3em);
+    background-image: linear-gradient(to bottom, #882525 3em, #f7f7f7 3em);
+}
+
+.left-tooltip-tooltip__close {
+    float: right;
+    background: transparent;
+    color: #fff;
+}
+
+.left-tooltip-tooltip__title {
+    font-size: 1.2em;
+    margin: 0;
+    color: #fff;
+    font-weight: normal;
+}
+
+@-webkit-keyframes fromleft {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 25em;
+    }
+}
+
+@keyframes fromleft {
+    0% {
+        width: 0;
+    }
+
+    100% {
+        width: 25em;
+    }
+}
